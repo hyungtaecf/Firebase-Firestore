@@ -1,4 +1,15 @@
-# firebase-firestore-playlist
-All course files for the Firebase Firestore playlist on The Net Ninja YouTube channel. 
+# Firebase Firestore
+The Net Ninja Tutorial 
 
-Make sure you select the correct branch to see the files :)
+## Studied Contents
+
+### Firestore
+- Introduction
+- Setting up Firestore
+- Getting Documents
+- Saving Data
+- Deleting Data
+- Making Queries
+- Ordering Data
+- Real-time Data
+- Updating Data
